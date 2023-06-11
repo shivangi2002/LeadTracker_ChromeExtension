@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# coa574dda96a591412a8b7cff
+
+
 
 Quick start:
 
@@ -20,6 +20,7 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
-=======
+
 # LeadTracker_ChromeExtension
->>>>>>> 6e37088c48a6d18b0623f59fa6daa2bdebc7b1d2
+
+
